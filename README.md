@@ -1,2 +1,2 @@
 # CP_Testes
-Repositório criado para testes do projeto Cosmic Pampa do CTA-UFRGS, além de outras aventuras em Bash.
+Repository criated for some tests of CTA's Cosmic Pampa project and for other Bash adventures.
